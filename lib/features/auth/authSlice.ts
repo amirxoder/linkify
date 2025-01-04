@@ -13,8 +13,6 @@ const initialState: AuthState = {
   email: "",
 };
 
-// hi
-
 export const authSlice = createSlice({
   initialState,
   name: "auth",
