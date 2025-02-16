@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## About Project
+
+implement messenger with nextjs for frontend and express for serve requests and routes, web socket for streaming connection
 
 ## Getting Started
 
